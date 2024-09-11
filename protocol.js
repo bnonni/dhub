@@ -1,5 +1,5 @@
 export default {
-    protocol: 'https://ver5ionhub.com/schemas/github',
+    protocol: 'https://dhub.com/schemas/dhub',
     published: true,
     types: {},
     structure: {
